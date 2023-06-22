@@ -1,4 +1,4 @@
-<h1><a href="https://devchallenges.io/">DEV CHALLENGES</a></h1>
+<h1><a href="https://devchallenges.io/paths/responsive-web-developer">DEV CHALLENGES</a></h1>
 
 <h3>Desarrollador Web Responsivo</h3>
 
