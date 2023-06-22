@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Jcamil097/devchallenges/blob/main/img/Screenshot.png)
+![screenshot](https://github.com/Jcamil097/devchallenges/blob/main/404_not_found/img/Screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
